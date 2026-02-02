@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="header_text">Практика 1, Мейрамкызы Аминат CS-304</string>
+    <string name="hint_x">Введите x</string>
+    <string name="hint_a">Введите a</string>
+    <string name="hint_b">Введите b</string>
+    <string name="solve_button">Решить</string>
+    <string name="cat_on_jet">Фото кота на джете</string>
+</resources>

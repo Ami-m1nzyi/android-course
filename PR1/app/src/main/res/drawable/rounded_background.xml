@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Цвет фона (в формате ARGB) -->
+    <!-- #80000000 - это 50% прозрачный черный -->
+    <solid android:color="#80000000" />
+
+    <!-- Радиус закругления -->
+    <corners android:radius="12dp" />
+
+    <!-- Дополнительно можно добавить обводку, если нужно -->
+    <!-- <stroke android:width="1dp" android:color="#FFFFFF" /> -->
+</shape>
